@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-color: #f6f6f6;
+  --black: #000;
+  --white: #fff;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--black);
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 1rem;
+  margin: 1rem;
+  /* width: 84%; */
+  /* margin-right: 3rem; */
+  border: 1px solid var(--black);
+  border-radius: 1rem;
+}
+
+@media only screen and (min-width: 768px) {
+  main {
+    max-width: 1024px;
+    margin: 1rem auto;
+  }
+
+  main::before,
+  main::after {
+    width: 70vw;
+  }
+}

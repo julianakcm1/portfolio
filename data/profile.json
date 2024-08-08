@@ -1,0 +1,222 @@
+{
+  "name": "Juliana Melo",
+  "photo": "https://avatars.githubusercontent.com/u/54086293?v=4",
+  "job": "Desenvolvedora Front-end",
+  "location": "Marechal Deodoro - AL",
+  "phone": "(82) 99698-1829",
+  "email": "julianakcmelo@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/julianakcm1/portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/julianakcm1/portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/julianakcm1/portfolio/main/data/imgs/javascript.png"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/julianakcm1/portfolio/main/data/imgs/typescript.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/julianakcm1/portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Figma",
+        "logo": "https://raw.githubusercontent.com/julianakcm1/portfolio/main/data/imgs/figma.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resolução de problemas",
+      "Trabalho em equipe",
+      "Atenção aos detalhes",
+      "Organização"
+    ]
+  },
+  "education": [
+    {
+      "institution": "Universidade Federal de Alagoas (UFAL)",
+      "course": "Ciência da Computação",
+      "period": "Em andamento - término em 2025"
+    },
+    {
+      "institution": "Universidade Estadual de Ciências da Saúde de Alagoas (UNCISAL)",
+      "course": "Tecnologia em Sistemas Biomédicos",
+      "period": "2012 - 2015"
+    }
+  ],
+  "professionalExperience": [
+    {
+      "location": "Núcleo de Tecnologia da Informação (NTI/UFAL)",
+      "name": "Bolsista em Desenvolvimento de Sistemas",
+      "period": "2022 - até o momento"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Sistema Capta",
+      "belong": "Núcleo de Tecnologia da Informação (NTI/UFAL)",
+      "as": "Desenvolvedora Front-end",
+      "technologies": "react, typescript, Material UI, Zustand, Axios",
+      "period": "fevereiro/2024 - até o momento"
+    },
+    {
+      "name": "Sistema de Monitoramento dos Sistemas da UFAL",
+      "belong": "Núcleo de Tecnologia da Informação (NTI/UFAL)",
+      "as": "Desenvolvedora DevOps",
+      "technologies": "prometheus, grafana, alertmanager",
+      "period": "maio/2024 - até o momento"
+    },
+    {
+      "name": "Pokedex",
+      "url": "https://github.com/julianakcm1/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Focus Timer",
+      "url": "https://github.com/julianakcm1/FocusTimer2.0",
+      "github": true
+    },
+    {
+      "name": "GitHub Favorites",
+      "url": "https://github.com/julianakcm1/GitFav",
+      "github": true
+    },
+    {
+      "name": "Cálculo de IMC",
+      "url": "https://github.com/julianakcm1/CalculoDeIMC",
+      "github": true
+    },
+    {
+      "name": "Jogo de Adivinhação de um Número",
+      "url": "https://github.com/julianakcm1/JogoDaAdivinhacao",
+      "github": true
+    },
+    {
+      "name": "Cálculo de Média",
+      "url": "https://github.com/julianakcm1/AverageGrade",
+      "github": true
+    },
+    {
+      "name": "Calculadora",
+      "url": "https://github.com/julianakcm1/Calculator",
+      "github": true
+    },
+    {
+      "name": "Conversor de Medidas",
+      "url": "https://github.com/julianakcm1/ConversorDeMedidas",
+      "github": true
+    },
+    {
+      "name": "Jogo Mentalista",
+      "url": "https://github.com/julianakcm1/JogoMentalista",
+      "github": true
+    },
+    {
+      "name": "Sorte do Dia",
+      "url": "https://github.com/julianakcm1/BiscoitoDaSorte",
+      "github": true
+    },
+    {
+      "name": "Filmes Favoritos",
+      "url": "https://github.com/julianakcm1/Cineflix",
+      "github": true
+    },
+    {
+      "name": "Sorveteria - Landing Page",
+      "url": "https://github.com/julianakcm1/SpaceCream",
+      "github": true
+    },
+    {
+      "name": "Plataforma de Yoga - Landing Page",
+      "url": "https://github.com/julianakcm1/YogaTrainer",
+      "github": true
+    },
+    {
+      "name": "Marketing Criativo - Landing Page",
+      "url": "https://github.com/julianakcm1/MarketingCriativo",
+      "github": true
+    },
+    {
+      "name": "Agência de Viagens Flutuar - Landing Page",
+      "url": "https://github.com/julianakcm1/Flutuar",
+      "github": true
+    },
+    {
+      "name": "Empresa de Segurança da Informação Socketsect - Landing Page",
+      "url": "https://github.com/julianakcm1/Socketsect",
+      "github": true
+    },
+    {
+      "name": "Plataforma de treinos treine.me - Landing Page",
+      "url": "https://github.com/julianakcm1/treine.me",
+      "github": true
+    },
+    {
+      "name": "Móveis Customizados - Landing Page",
+      "url": "https://github.com/julianakcm1/MoveisCustomizados",
+      "github": true
+    },
+    {
+      "name": "Agendamento de Mentorias - Form",
+      "url": "https://github.com/julianakcm1/Mentorias",
+      "github": true
+    },
+    {
+      "name": "Criar Evento - Form",
+      "url": "https://github.com/julianakcm1/Cineflix",
+      "github": true
+    },
+    {
+      "name": "Trabalhos Recentes - Landing Page",
+      "url": "https://github.com/julianakcm1/TrabalhosRecentes",
+      "github": true
+    },
+    {
+      "name": "Nosso Trabalho - Landing Page",
+      "url": "https://github.com/julianakcm1/NossoTrabalho",
+      "github": true
+    }
+  ],
+  "developedActivities": [
+    {
+      "as": "UI/UX para mobile",
+      "name": "FamilySafeTalk",
+      "description": "Aplicativo de chat para crianças com controle parental remoto."
+    },
+    {
+      "as": "UI/UX para desktop",
+      "name": "IClingo",
+      "description": "Plataforma de perguntas e respostas para auxiliar estudantes de computação."
+    },
+    {
+      "as": "Voluntariado - Diretoria de Finanças e Diretoria de Produção",
+      "name": "Projeto Katie",
+      "about": "O Projeto Katie incentiva a presença feminina a ingressar na área da computação, como também apoia as meninas durante a graduação.",
+      "description": "Atividades realizadas: produção de materiais para diversos minicursos, monitoria nos cursos de Lógica de programação e Python para iniciantes, organização do Hackathon do projeto - 2ª edição",
+      "period": "2020 - 2022"
+    }
+  ],
+  "courses": [
+
+  ],
+  "contact": [
+    {
+      "email": "julianakcmelo@gmail.com",
+      "github": "https://github.com/julianakcm1",
+      "linkedin": "https://www.linkedin.com/in/julianakcmelo/"
+    }
+  ],
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (iniciante)"
+  ]
+}
