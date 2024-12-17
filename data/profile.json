@@ -44,7 +44,7 @@
     {
       "institution": "Universidade Federal de Alagoas (UFAL)",
       "course": "Ciência da Computação",
-      "period": "Em andamento - término em 2025"
+      "period": "Conclusão prevista: 2025"
     },
     {
       "institution": "Universidade Estadual de Ciências da Saúde de Alagoas (UNCISAL)",
@@ -55,24 +55,24 @@
   "professionalExperience": [
     {
       "location": "Núcleo de Tecnologia da Informação (NTI/UFAL)",
-      "name": "Bolsista em Desenvolvimento de Sistemas",
+      "name": "Desenvolvedora de Sistemas",
       "period": "2022 - até o momento"
     }
   ],
   "projects": [
     {
-      "name": "Sistema Capta",
-      "belong": "Núcleo de Tecnologia da Informação (NTI/UFAL)",
-      "as": "Desenvolvedora Front-end",
-      "technologies": "react, typescript, Material UI, Zustand, Axios",
-      "period": "fevereiro/2024 - até o momento"
-    },
-    {
       "name": "Sistema de Monitoramento dos Sistemas da UFAL",
       "belong": "Núcleo de Tecnologia da Informação (NTI/UFAL)",
       "as": "Desenvolvedora DevOps",
       "technologies": "prometheus, grafana, alertmanager",
-      "period": "maio/2024 - até o momento"
+      "period": "no momento"
+    },
+    {
+      "name": "Sistema Capta",
+      "belong": "Núcleo de Tecnologia da Informação (NTI/UFAL)",
+      "as": "Desenvolvedora Front-end",
+      "technologies": "react, typescript, Material UI, Zustand, Axios",
+      "period": "fevereiro/2024 - outubro/2024"
     },
     {
       "name": "Pokedex",
@@ -205,7 +205,26 @@
     }
   ],
   "courses": [
-
+    {
+      "institution": "Alura",
+      "name": "React: escrevendo com typescript",
+      "hours": "12h"
+    },
+    {
+      "institution": "Alura",
+      "name": "Imersão Front-end",
+      "hours": "5h"
+    },
+    {
+      "institution": "Fundação Bradesco",
+      "name": "HTML - Básico",
+      "hours": "11h"
+    },
+    {
+      "institution": "Fundação Bradesco",
+      "name": "Linguagem de programação C# - Básico",
+      "hours": "18h"
+    }
   ],
   "contact": [
     {
@@ -217,6 +236,6 @@
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (iniciante)"
+    "Espanhol (básico)"
   ]
 }

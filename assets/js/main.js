@@ -1,27 +1,55 @@
 function updateProfileInfo(profileData) {
   const photo = document.getElementById('profile.photo');
-  photo.src = profileData.photo;
-  photo.alt = profileData.name;
+  if (photo) {
+    photo.src = profileData.photo;
+    photo.alt = profileData.name;
+  } else {
+    console.error('Elemento photo não encontrado');
+  }
 
   const name = document.getElementById('profile.name');
-  name.innerText = profileData.name;
+  if (name) {
+    name.innerText = profileData.name;
+  } else {
+    console.error('Elemento name não encontrado');
+  }
 
   const job = document.getElementById('profile.job');
-  job.innerText = profileData.job;
+  if (job) {
+    job.innerText = profileData.job;
+  } else {
+    console.error('Elemento job não encontrado');
+  }
 
   const location = document.getElementById('profile.location');
-  location.innerText = profileData.location;
+  if (location) {
+    location.innerText = profileData.location;
+  } else {
+    console.error('Elemento location não encontrado');
+  }
 
   const phone = document.getElementById('profile.phone');
-  phone.innerText = profileData.phone;
-  phone.href = `tel:${profileData.phone}`;
+  if (phone) {
+    phone.innerText = profileData.phone;
+    phone.href = `tel:${profileData.phone}`;
+  } else {
+    console.error('Elemento phone não encontrado');
+  }
 
   const email = document.getElementById('profile.email');
-  email.innerText = profileData.email;
-  email.href = `mailto:${profileData.email}`;
+  if (email) {
+    email.innerText = profileData.email;
+    email.href = `mailto:${profileData.email}`;
+  } else {
+    console.error('Elemento email não encontrado');
+  }
 }
 
 (async () => {
   const profileData = await fetchProfileData();
-  updateProfileInfo(profileData);
+  if (profileData) {
+    updateProfileInfo(profileData);
+  } else {
+    console.error('Failed to fetch profile data');
+  }
 })();
